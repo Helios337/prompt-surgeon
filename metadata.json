@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Surgeon",
+  "description": "Transform messy ideas into high-precision prompts using the Role-Task-Context-Format framework with Gemini AI.",
+  "requestFramePermissions": []
+}
